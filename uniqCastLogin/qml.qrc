@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LogInPage.qml</file>
+        <file>UserInfoPage.qml</file>
+        <file>images/profilePic.png</file>
+        <file>main.cpp</file>
+        <file>fonts/roboto-light.ttf</file>
+    </qresource>
+</RCC>
